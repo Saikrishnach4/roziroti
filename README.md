@@ -9,3 +9,4 @@ cd ../client
 npm install
 
 # Register first for new user
+route /register

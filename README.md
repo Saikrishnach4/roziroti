@@ -25,7 +25,7 @@ This project uses MongoDB as its database. Follow the steps below to set up the 
     - Add the following line to the `.env` file, replacing `<YOUR_MONGODB_URL>` with your actual MongoDB connection URL:
 
         ```env
-        MONGODB_URI=<YOUR_MONGOURL>
+        MONGOURL=<YOUR_MONGOURL>
         ```
 
     - Save the `.env` file.
